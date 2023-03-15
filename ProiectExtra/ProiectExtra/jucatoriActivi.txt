@@ -1,0 +1,4 @@
+﻿1;1;2;20;Participant
+2;2;2;3;Rezerva
+3;3;2;3;Rezerva
+4;37;2;10;Participant

@@ -1,0 +1,90 @@
+﻿1;jucator1;Scoala Gimnaziala “Horea”;Houston Rockets
+2;jucator2;Scoala Gimnaziala “Horea”;Houston Rockets
+3;jucator3;Scoala Gimnaziala “Horea”;Houston Rockets
+4;jucator4;Scoala Gimnaziala “Horea”;Houston Rockets
+5;jucator5;Scoala Gimnaziala “Horea”;Houston Rockets
+6;jucator6;Scoala Gimnaziala “Horea”;Houston Rockets
+7;jucator7;Scoala Gimnaziala “Horea”;Houston Rockets
+8;jucator8;Scoala Gimnaziala “Horea”;Houston Rockets
+9;jucator9;Scoala Gimnaziala “Horea”;Houston Rockets
+10;jucator10;Scoala Gimnaziala “Horea”;Houston Rockets
+11;jucator11;Scoala Gimnaziala “Horea”;Houston Rockets
+12;jucator12;Scoala Gimnaziala “Horea”;Houston Rockets
+13;jucator13;Scoala Gimnaziala “Horea”;Houston Rockets
+14;jucator14;Scoala Gimnaziala “Horea”;Houston Rockets
+15;jucator15;Scoala Gimnaziala “Horea”;Houston Rockets
+16;jucator16;Scoala Gimnaziala “Octavian Goga“;Los Angeles Lakers
+17;jucator17;Scoala Gimnaziala “Octavian Goga“;Los Angeles Lakers
+18;jucator18;Scoala Gimnaziala “Octavian Goga“;Los Angeles Lakers
+19;jucator19;Scoala Gimnaziala “Octavian Goga“;Los Angeles Lakers
+20;jucator20;Scoala Gimnaziala “Octavian Goga“;Los Angeles Lakers
+21;jucator21;Scoala Gimnaziala “Octavian Goga“;Los Angeles Lakers
+22;jucator22;Scoala Gimnaziala “Octavian Goga“;Los Angeles Lakers
+23;jucator23;Scoala Gimnaziala “Octavian Goga“;Los Angeles Lakers
+24;jucator24;Scoala Gimnaziala “Octavian Goga“;Los Angeles Lakers
+25;jucator25;Scoala Gimnaziala “Octavian Goga“;Los Angeles Lakers
+26;jucator26;Scoala Gimnaziala “Octavian Goga“;Los Angeles Lakers
+27;jucator27;Scoala Gimnaziala “Octavian Goga“;Los Angeles Lakers
+28;jucator28;Scoala Gimnaziala “Octavian Goga“;Los Angeles Lakers
+29;jucator29;Scoala Gimnaziala “Octavian Goga“;Los Angeles Lakers
+30;jucator30;Scoala Gimnaziala “Octavian Goga“;Los Angeles Lakers
+31;jucator31;Liceul Teoretic “Lucian Blaga“;LA Clippers
+32;jucator32;Liceul Teoretic “Lucian Blaga“;LA Clippers
+33;jucator33;Liceul Teoretic “Lucian Blaga“;LA Clippers
+34;jucator34;Liceul Teoretic “Lucian Blaga“;LA Clippers
+35;jucator35;Liceul Teoretic “Lucian Blaga“;LA Clippers
+36;jucator36;Liceul Teoretic “Lucian Blaga“;LA Clippers
+37;jucator37;Liceul Teoretic “Lucian Blaga“;LA Clippers
+38;jucator38;Liceul Teoretic “Lucian Blaga“;LA Clippers
+39;jucator39;Liceul Teoretic “Lucian Blaga“;LA Clippers
+40;jucator40;Liceul Teoretic “Lucian Blaga“;LA Clippers
+41;jucator41;Liceul Teoretic “Lucian Blaga“;LA Clippers
+42;jucator42;Liceul Teoretic “Lucian Blaga“;LA Clippers
+43;jucator43;Liceul Teoretic “Lucian Blaga“;LA Clippers
+44;jucator44;Liceul Teoretic “Lucian Blaga“;LA Clippers
+45;jucator45;Liceul Teoretic “Lucian Blaga“;LA Clippers
+46;jucator46;Scoala Gimnaziala “Ioan Bob“;Chicago Bulls
+47;jucator47;Scoala Gimnaziala “Ioan Bob“;Chicago Bulls
+48;jucator48;Scoala Gimnaziala “Ioan Bob“;Chicago Bulls
+49;jucator49;Scoala Gimnaziala “Ioan Bob“;Chicago Bulls
+50;jucator50;Scoala Gimnaziala “Ioan Bob“;Chicago Bulls
+51;jucator51;Scoala Gimnaziala “Ioan Bob“;Chicago Bulls
+52;jucator52;Scoala Gimnaziala “Ioan Bob“;Chicago Bulls
+53;jucator53;Scoala Gimnaziala “Ioan Bob“;Chicago Bulls
+54;jucator54;Scoala Gimnaziala “Ioan Bob“;Chicago Bulls
+55;jucator55;Scoala Gimnaziala “Ioan Bob“;Chicago Bulls
+56;jucator56;Scoala Gimnaziala “Ioan Bob“;Chicago Bulls
+57;jucator57;Scoala Gimnaziala “Ioan Bob“;Chicago Bulls
+58;jucator58;Scoala Gimnaziala “Ioan Bob“;Chicago Bulls
+59;jucator59;Scoala Gimnaziala “Ioan Bob“;Chicago Bulls
+60;jucator60;Scoala Gimnaziala “Ioan Bob“;Chicago Bulls
+61;jucator61;Scoala Gimnaziala "Ion Creanga";Cleveland Cavaliers
+62;jucator62;Scoala Gimnaziala "Ion Creanga";Cleveland Cavaliers
+63;jucator63;Scoala Gimnaziala "Ion Creanga";Cleveland Cavaliers
+64;jucator64;Scoala Gimnaziala "Ion Creanga";Cleveland Cavaliers
+65;jucator65;Scoala Gimnaziala "Ion Creanga";Cleveland Cavaliers
+66;jucator66;Scoala Gimnaziala "Ion Creanga";Cleveland Cavaliers
+67;jucator67;Scoala Gimnaziala "Ion Creanga";Cleveland Cavaliers
+68;jucator68;Scoala Gimnaziala "Ion Creanga";Cleveland Cavaliers
+69;jucator69;Scoala Gimnaziala "Ion Creanga";Cleveland Cavaliers
+70;jucator70;Scoala Gimnaziala "Ion Creanga";Cleveland Cavaliers
+71;jucator71;Scoala Gimnaziala "Ion Creanga";Cleveland Cavaliers
+72;jucator72;Scoala Gimnaziala "Ion Creanga";Cleveland Cavaliers
+73;jucator73;Scoala Gimnaziala "Ion Creanga";Cleveland Cavaliers
+74;jucator74;Scoala Gimnaziala "Ion Creanga";Cleveland Cavaliers
+75;jucator75;Scoala Gimnaziala "Ion Creanga";Cleveland Cavaliers
+76;jucator76;Colegiul National Pedagogic "Gheorghe Lazar";Utah Jazz
+77;jucator77;Colegiul National Pedagogic "Gheorghe Lazar";Utah Jazz
+78;jucator78;Colegiul National Pedagogic "Gheorghe Lazar";Utah Jazz
+79;jucator79;Colegiul National Pedagogic "Gheorghe Lazar";Utah Jazz
+80;jucator80;Colegiul National Pedagogic "Gheorghe Lazar";Utah Jazz
+81;jucator81;Colegiul National Pedagogic "Gheorghe Lazar";Utah Jazz
+82;jucator82;Colegiul National Pedagogic "Gheorghe Lazar";Utah Jazz
+83;jucator83;Colegiul National Pedagogic "Gheorghe Lazar";Utah Jazz
+84;jucator84;Colegiul National Pedagogic "Gheorghe Lazar";Utah Jazz
+85;jucator85;Colegiul National Pedagogic "Gheorghe Lazar";Utah Jazz
+86;jucator86;Colegiul National Pedagogic "Gheorghe Lazar";Utah Jazz
+87;jucator87;Colegiul National Pedagogic "Gheorghe Lazar";Utah Jazz
+88;jucator88;Colegiul National Pedagogic "Gheorghe Lazar";Utah Jazz
+89;jucator89;Colegiul National Pedagogic "Gheorghe Lazar";Utah Jazz
+90;jucator90;Colegiul National Pedagogic "Gheorghe Lazar";Utah Jazz

@@ -1,0 +1,15 @@
+F:\Facultate\MaP\Facultativ\ProiectExtra\bin\Debug\net6.0\ProiectExtra.exe
+F:\Facultate\MaP\Facultativ\ProiectExtra\bin\Debug\net6.0\ProiectExtra.deps.json
+F:\Facultate\MaP\Facultativ\ProiectExtra\bin\Debug\net6.0\ProiectExtra.runtimeconfig.json
+F:\Facultate\MaP\Facultativ\ProiectExtra\bin\Debug\net6.0\ProiectExtra.dll
+F:\Facultate\MaP\Facultativ\ProiectExtra\bin\Debug\net6.0\ProiectExtra.pdb
+F:\Facultate\MaP\Facultativ\ProiectExtra\obj\Debug\net6.0\ProiectExtra.csproj.AssemblyReference.cache
+F:\Facultate\MaP\Facultativ\ProiectExtra\obj\Debug\net6.0\ProiectExtra.GeneratedMSBuildEditorConfig.editorconfig
+F:\Facultate\MaP\Facultativ\ProiectExtra\obj\Debug\net6.0\ProiectExtra.AssemblyInfoInputs.cache
+F:\Facultate\MaP\Facultativ\ProiectExtra\obj\Debug\net6.0\ProiectExtra.AssemblyInfo.cs
+F:\Facultate\MaP\Facultativ\ProiectExtra\obj\Debug\net6.0\ProiectExtra.csproj.CoreCompileInputs.cache
+F:\Facultate\MaP\Facultativ\ProiectExtra\obj\Debug\net6.0\ProiectExtra.dll
+F:\Facultate\MaP\Facultativ\ProiectExtra\obj\Debug\net6.0\refint\ProiectExtra.dll
+F:\Facultate\MaP\Facultativ\ProiectExtra\obj\Debug\net6.0\ProiectExtra.pdb
+F:\Facultate\MaP\Facultativ\ProiectExtra\obj\Debug\net6.0\ProiectExtra.genruntimeconfig.cache
+F:\Facultate\MaP\Facultativ\ProiectExtra\obj\Debug\net6.0\ref\ProiectExtra.dll
