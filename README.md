@@ -1,11 +1,11 @@
-# Cs-Basketball
+# C#-Basketball
 C# Basketball Tournament Manager
 
 Layered Architecture, OOP Principles, file-hadnling in C#, Generics, Delegates
 
-LINQ
-
-` public List<Meci> MeciuriPerioada(DateTime dt1, DateTime dt2)
+LINQ (example of some service work in solving a few tasks)
+```C#
+public List<Meci> MeciuriPerioada(DateTime dt1, DateTime dt2)
         {
             return repoMeci.FindAll().Where(x => (x.Data > dt1.AddDays(-1) && x.Data <= dt2)).ToList();
         }
@@ -29,4 +29,5 @@ LINQ
                        select activ.NrPuncteInscrise;
             var scor2 = rez2.Sum();
             return scor1.ToString() + "-" + scor2.ToString();
-        }`
+        }
+```
